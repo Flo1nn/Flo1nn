@@ -4,8 +4,23 @@ I'm a second-year **Data Science & Artificial Intelligence student at Technologi
 
 I'm interested in software engineering, AI, and building practical solutions to real-world problems. I enjoy exploring new technologies and applying what I learn through personal projects and collaborative development.
 
-My main programming languages are **Python, JavaScript, TypeScript, C, and SQL**. I've also worked with React, Next.js, PostgreSQL, and Supabase.
+### 🛠️ Tech Stack
 
-Currently, I'm developing a [**Sprint Performance Analyser**](https://github.com/Flo1nn/Sprint-Performance-Analyzer) using Python, OpenCV, and MediaPipe to explore how computer vision can be applied to athletics. I've also worked on projects involving data analytics and AI.
+**Languages:** Python · JavaScript · TypeScript · C · SQL
+
+**Frameworks & Libraries:** React · Next.js · Pandas · NumPy · OpenCV · MediaPipe
+
+**Tools & Databases:** Git · GitHub · PostgreSQL · Supabase · VS Code
+
+### 📜 Certifications & Courses
+
+- NVIDIA — Deep Learning
+- Cisco — Data Analytics Essentials
+- Anthropic — Claude 101
+- SAP — Introducing Joule
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/eoin-leslie-flores-59500639b) · [GitHub](https://github.com/Flo1nn)
 
 Outside of programming, I'm a competitive sprinter, photographer, and Spanish learner.
